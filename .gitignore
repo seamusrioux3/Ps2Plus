@@ -1,2 +1,5 @@
 hardware/*.gbr
 *.gbr
+*.drl
+*.gbrjob
+*.gbr
